@@ -1,6 +1,4 @@
-//Name; difficulty; attackType;ms;strength;agility;intelligence
-Io;3;Universal;320;19;14;21
 Oracle;3;Intelligence;Ranged;295;20;15;26
 Sniper;1;Agility;Ranged;285;19;27;15
-Faceless Void;2;Melee;300;20;24;15
-Pudge;2;Melee;280;25;11;16
+Faceless Void;2;Agility;Melee;300;20;24;15
+Pudge;2;Strength;Melee;280;25;11;16
