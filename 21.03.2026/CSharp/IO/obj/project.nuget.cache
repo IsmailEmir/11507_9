@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8P459NikPIE=",
+  "success": true,
+  "projectFilePath": "/home/ismailemirkoch/RiderProjects/CSharp/IO/IO.csproj",
+  "expectedPackageFiles": [
+    "/home/ismailemirkoch/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

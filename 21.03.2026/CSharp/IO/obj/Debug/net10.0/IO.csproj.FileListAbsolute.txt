@@ -1,0 +1,14 @@
+/home/ismailemirkoch/RiderProjects/CSharp/IO/bin/Debug/net10.0/IO
+/home/ismailemirkoch/RiderProjects/CSharp/IO/bin/Debug/net10.0/IO.deps.json
+/home/ismailemirkoch/RiderProjects/CSharp/IO/bin/Debug/net10.0/IO.runtimeconfig.json
+/home/ismailemirkoch/RiderProjects/CSharp/IO/bin/Debug/net10.0/IO.dll
+/home/ismailemirkoch/RiderProjects/CSharp/IO/bin/Debug/net10.0/IO.pdb
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.GeneratedMSBuildEditorConfig.editorconfig
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.AssemblyInfoInputs.cache
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.AssemblyInfo.cs
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.csproj.CoreCompileInputs.cache
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.dll
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/refint/IO.dll
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.pdb
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/IO.genruntimeconfig.cache
+/home/ismailemirkoch/RiderProjects/CSharp/IO/obj/Debug/net10.0/ref/IO.dll
