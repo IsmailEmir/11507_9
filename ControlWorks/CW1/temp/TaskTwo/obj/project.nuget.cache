@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQmFVQTKDww=",
+  "success": true,
+  "projectFilePath": "/home/ismailemirkoch/Repositories/11507_9/ControlWorks/CW1/VariantThree/TaskTwo/TaskTwo.csproj",
+  "expectedPackageFiles": [
+    "/home/ismailemirkoch/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
